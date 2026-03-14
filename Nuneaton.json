@@ -1,0 +1,10 @@
+{
+  "city": "Nuneaton",
+  "stations": [
+    {
+      "name": "Jami Masjid",
+      "url": "https://livemasjid.net/testnuneatonmasjid"
+    }
+
+  ]
+}

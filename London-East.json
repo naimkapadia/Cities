@@ -1,0 +1,16 @@
+{
+  "city": "London East",
+  "stations": [
+   
+    {
+      "name": "East London Mosque",
+      "url": "https://listen.mixlr.com/51e1dcfd9a811878559970204bd68478"
+    },
+   
+    {
+      "name": "Masjid Quba",
+      "url": "https://livemasjid.net/masjidequba.mp3"
+    }
+   
+  ]
+}

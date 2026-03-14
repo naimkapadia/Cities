@@ -1,0 +1,29 @@
+{
+  "city": "Quran Radio",
+  "stations": [
+    {
+      "name": "Birmingham",
+      "url": "https://codeform3d.com/QuranRadio/Cities/Birmingham.json"
+    },
+    {
+      "name": "Blackburn",
+      "url": "https://codeform3d.com/QuranRadio/Cities/Blackburn.json"
+    },
+    {
+      "name": "Coventry",
+      "url": "https://codeform3d.com/QuranRadio/Cities/Coventry.json"
+    },
+    {
+      "name": "Leicester",
+      "url": "https://codeform3d.com/QuranRadio/Cities/Leicester.json"
+    },
+    {
+      "name": "London-East",
+      "url": "https://codeform3d.com/QuranRadio/Cities/London-East.json"
+    },
+{
+      "name": "Nuneaton",
+      "url": "https://codeform3d.com/QuranRadio/Cities/Nuneaton.json"
+    }
+  ]
+}
