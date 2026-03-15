@@ -3,27 +3,27 @@
   "stations": [
     {
       "name": "Birmingham",
-      "url": "https://codeform3d.com/QuranRadio/Cities/Birmingham.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Birmingham.json"
     },
     {
       "name": "Blackburn",
-      "url": "https://codeform3d.com/QuranRadio/Cities/Blackburn.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Blackburn.json"
     },
     {
       "name": "Coventry",
-      "url": "https://codeform3d.com/QuranRadio/Cities/Coventry.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Birmingham.json"
     },
     {
       "name": "Leicester",
-      "url": "https://codeform3d.com/QuranRadio/Cities/Leicester.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Leicester.json"
     },
     {
       "name": "London-East",
-      "url": "https://codeform3d.com/QuranRadio/Cities/London-East.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/London-East.json"
     },
 {
       "name": "Nuneaton",
-      "url": "https://codeform3d.com/QuranRadio/Cities/Nuneaton.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Nuneaton.json"
     }
   ]
 }
